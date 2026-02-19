@@ -32,6 +32,7 @@ This article explains how to create a basic Venn (or Euler) diagram as well as c
 <tr><th colspan=2>SEE ALSO</th></tr>
 <tr><td></td><td>[Chartopedia: Venn Diagram](https://www.anychart.com/chartopedia/chart-types/venn-diagram/)</td></tr>
 <tr><td></td><td>[General Settings](General_Settings)</td></tr>
+<tr><td></td><td>[Venn Diagram Tutorial](https://www.anychart.com/blog/2020/11/11/venn-diagram-javascript/)</td></tr>
 </table>
 
 ## Modules

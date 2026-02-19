@@ -37,6 +37,7 @@ This article explains how to create a basic Area chart as well as configure sett
 <tr><th colspan=2>SEE ALSO</th></tr>
 <tr><td></td><td>[Chartopedia: Area Chart](https://www.anychart.com/chartopedia/chart-types/area-chart/)</td></tr>
 <tr><td></td><td>[General Settings](General_Settings)</td></tr>
+<tr><td></td><td>[Area Chart Tutorial](https://www.anychart.com/blog/2017/10/28/create-javascript-area-chart/)</td></tr>
 </table>
 
 ## Modules

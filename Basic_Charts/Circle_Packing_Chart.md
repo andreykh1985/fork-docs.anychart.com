@@ -31,6 +31,7 @@ This article explains how to create a basic Circle Packing chart in AnyChart as 
 <tr><th colspan=2>SEE ALSO</th></tr>
 <tr><td></td><td>[Chartopedia: Circle Packing Chart](https://www.anychart.com/products/anychart/gallery/Circle_Packing/)</td></tr>
 <tr><td></td><td>[General Settings](General_Settings)</td></tr>
+<tr><td></td><td>[Circle Packing Chart Tutorial](https://www.anychart.com/blog/2022/09/08/circle-packing-chart/)</td></tr>
 </table>
 
 ## Modules

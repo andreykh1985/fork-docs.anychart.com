@@ -30,6 +30,7 @@ This article explains how to create a basic Calendar chart in AnyChart as well a
 <tr><th colspan=2>SEE ALSO</th></tr>
 <tr><td></td><td>[Chartopedia: Calendar Chart](https://www.anychart.com/products/anychart/gallery/Calendar_Chart/)</td></tr>
 <tr><td></td><td>[General Settings](General_Settings)</td></tr>
+<tr><td></td><td>[Calendar Chart Tutorial](https://www.anychart.com/blog/2022/02/11/calendar-chart-js/)</td></tr>
 </table>
 
 ## Modules

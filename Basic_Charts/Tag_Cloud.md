@@ -29,6 +29,7 @@ This article explains how to create a basic Tag Cloud chart as well as configure
 <tr><th colspan=2>SEE ALSO</th></tr>
 <tr><td></td><td>[Chartopedia: Tag Cloud](https://www.anychart.com/chartopedia/chart-types/tag-cloud-chart/)</td></tr>
 <tr><td></td><td>[General Settings](General_Settings)</td></tr>
+<tr><td></td><td>[Word Cloud Tutorial](https://www.anychart.com/blog/2019/04/30/create-javascript-word-cloud-chart-tutorial/)</td></tr>
 </table>
 
 ## Modules

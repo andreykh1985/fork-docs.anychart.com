@@ -29,6 +29,7 @@ This article explains how to create a basic Word Tree chart as well as configure
 <tr><th colspan=2>SEE ALSO</th></tr>
 <tr><td></td><td>[Chartopedia: Word Tree](https://www.anychart.com/chartopedia/chart-types/word-tree/)</td></tr>
 <tr><td></td><td>[General Settings](General_Settings)</td></tr>
+<tr><td></td><td>[Word Tree Tutorial](https://www.anychart.com/blog/2022/10/14/word-tree-js/)</td></tr>
 </table>
 
 ## Modules

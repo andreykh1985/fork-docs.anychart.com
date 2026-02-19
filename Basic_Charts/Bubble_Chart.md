@@ -36,6 +36,7 @@ This article explains how to create a basic Bubble chart as well as configure se
 <tr><th colspan=2>SEE ALSO</th></tr>
 <tr><td></td><td>[Chartopedia: Bubble Chart](https://www.anychart.com/chartopedia/chart-types/bubble-chart/)</td></tr>
 <tr><td></td><td>[General Settings](General_Settings)</td></tr>
+<tr><td></td><td>[Bubble Chart Tutorial](https://www.anychart.com/blog/2020/03/03/bubble-chart-javascript-tutorial/)</td></tr>
 </table>
 
 ## Modules

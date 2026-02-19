@@ -32,6 +32,7 @@ This article explains how to create a basic Box chart as well as configure setti
 <tr><th colspan=2>SEE ALSO</th></tr>
 <tr><td></td><td>[Chartopedia: Box Chart](https://www.anychart.com/chartopedia/chart-types/box-chart/)</td></tr>
 <tr><td></td><td>[General Settings](General_Settings)</td></tr>
+<tr><td></td><td>[Box Chart Tutorial](https://www.anychart.com/blog/2023/03/16/box-and-whisker-plot-javascript/)</td></tr>
 </table>
 
 ## Modules

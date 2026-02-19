@@ -34,6 +34,7 @@ This article explains how to create a basic Range Bar chart as well as configure
 <tr><th colspan=2>SEE ALSO</th></tr>
 <tr><td></td><td>[Chartopedia: Range Bar Chart](https://www.anychart.com/chartopedia/chart-types/range-bar-chart/)</td></tr>
 <tr><td></td><td>[General Settings](General_Settings)</td></tr>
+<tr><td></td><td>[Range Bar Chart Tutorial](https://www.anychart.com/blog/2021/03/02/diverging-bar-chart-javascript/)</td></tr>
 </table>
 
 ## Modules

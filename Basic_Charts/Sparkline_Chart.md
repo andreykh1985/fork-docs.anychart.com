@@ -488,3 +488,6 @@ table.container('container').draw();
 
 {sample :width 688 :height 100}BCT\_Sparkline\_Chart\_19{sample}
 
+## See Also
+
+* [Sparkline Chart Tutorial](https://www.anychart.com/blog/2022/01/13/sparklines-javascript/)

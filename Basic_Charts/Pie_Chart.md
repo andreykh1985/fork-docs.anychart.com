@@ -31,6 +31,7 @@ This article explains how to create a basic Pie chart as well as configure setti
 <tr><th colspan=2>SEE ALSO</th></tr>
 <tr><td></td><td>[Chartopedia: Pie Chart](https://www.anychart.com/chartopedia/chart-types/pie-chart/)</td></tr>
 <tr><td></td><td>[General Settings](General_Settings)</td></tr>
+<tr><td></td><td>[Pie Chart Tutorial](https://www.anychart.com/blog/2017/12/06/pie-chart-create-javascript/)</td></tr>
 </table>
 
 ## Modules

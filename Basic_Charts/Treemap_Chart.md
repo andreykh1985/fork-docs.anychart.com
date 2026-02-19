@@ -31,6 +31,7 @@ This article explains how to create a basic Treemap chart in AnyChart as well as
 <tr><th colspan=2>SEE ALSO</th></tr>
 <tr><td></td><td>[Chartopedia: Treemap Chart](https://www.anychart.com/chartopedia/chart-types/treemap/)</td></tr>
 <tr><td></td><td>[General Settings](General_Settings)</td></tr>
+<tr><td></td><td>[Treemap Chart Tutorial](https://www.anychart.com/blog/2019/08/01/treemap-chart-create-javascript/)</td></tr>
 </table>
 
 ## Modules

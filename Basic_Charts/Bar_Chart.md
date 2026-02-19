@@ -31,6 +31,7 @@ This article explains how to create a basic Bar chart as well as configure  sett
 <tr><th colspan=2>SEE ALSO</th></tr>
 <tr><td></td><td>[Chartopedia: Bar Chart](https://www.anychart.com/chartopedia/chart-types/bar-chart/)</td></tr>
 <tr><td></td><td>[General Settings](General_Settings)</td></tr>
+<tr><td></td><td>[Bar Chart Tutorial](https://www.anychart.com/blog/2017/10/25/javascript-bar-chart-tutorial/)</td></tr>
 </table>
 
 ## Modules

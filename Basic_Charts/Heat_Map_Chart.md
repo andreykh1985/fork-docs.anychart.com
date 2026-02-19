@@ -30,6 +30,7 @@ This article explains how to create a basic Heat Map chart as well as configure 
 <tr><th colspan=2>SEE ALSO</th></tr>
 <tr><td></td><td>[Chartopedia: Heat Map Chart](https://www.anychart.com/chartopedia/chart-types/heatmap/)</td></tr>
 <tr><td></td><td>[General Settings](General_Settings)</td></tr>
+<tr><td></td><td>[Heat Map Chart Tutorial](https://www.anychart.com/blog/2020/02/26/heat-map-chart-create-javascript/)</td></tr>
 </table>
 
 ## Modules

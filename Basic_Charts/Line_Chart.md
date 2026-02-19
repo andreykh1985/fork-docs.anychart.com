@@ -36,6 +36,7 @@ This article explains how to create a basic Line chart as well as configure sett
 <tr><th colspan=2>SEE ALSO</th></tr>
 <tr><td></td><td>[Chartopedia: Line Chart](https://www.anychart.com/chartopedia/chart-types/line-chart/)</td></tr>
 <tr><td></td><td>[General Settings](General_Settings)</td></tr>
+<tr><td></td><td>[Line Chart Tutorial](https://www.anychart.com/blog/2021/07/28/line-chart-js)</td></tr>
 </table>
 
 ## Modules
